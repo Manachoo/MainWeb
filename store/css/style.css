@@ -217,6 +217,7 @@ img{
     background-color: transparent;
     color: var(--firstColorAlt);
 }
+
 /*contact*/
 .contact__container{
     row-gap: 3rem;
@@ -515,3 +516,4 @@ img{
 ::-webkit-scrollbar-thumb:hover{
     background-color: var(--textColorLighter);
 }
+
